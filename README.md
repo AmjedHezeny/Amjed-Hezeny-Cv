@@ -46,6 +46,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emcet-hazani&show_icons=true&locale=en" alt="emcet-hazani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emcet-hazani&" alt="emcet-hazani" /></p>
 
 <p align="left"> <a href="https://twitter.com/emcet_hazani" target="blank"><img src="https://img.shields.io/twitter/follow/emcet_hazani?logo=twitter&style=for-the-badge" alt="emcet_hazani" /></a> </p>
