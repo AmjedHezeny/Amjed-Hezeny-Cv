@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Emcet Hazani 👨‍💻</h1>
+<h1 align="center">Merhaba 👋, Ben Emcet Hazani 👨‍💻</h1>
 <h3 align="center">Web geliştiricisiyim 🖥️ Python ve Java'da yetenekliyim. Web tasarımı, veritabanı yönetimi, HTML, CSS, JavaScript ve PHP konularında deneyimim var. Office uygulamalarında yetenekliyim 📊 ve temel Photoshop bilgisine sahibim 🎨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emcet-hazani&label=Profile%20views&color=0e75b6&style=flat" alt="emcet-hazani" /> </p>
