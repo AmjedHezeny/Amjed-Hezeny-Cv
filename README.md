@@ -2,6 +2,7 @@
 <h3 align="center">Web geliştiricisiyim 🖥️ Python ve Java'da yetenekliyim. Web tasarımı, veritabanı yönetimi, HTML, CSS, JavaScript ve PHP konularında deneyimim var. Office uygulamalarında yetenekliyim 📊 ve temel Photoshop bilgisine sahibim 🎨</h3>
 
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emcet-hazani" alt="emcet-hazani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/emcet_hazani" target="blank"><img src="https://img.shields.io/twitter/follow/emcet_hazani?logo=twitter&style=for-the-badge" alt="emcet_hazani" /></a> </p>
