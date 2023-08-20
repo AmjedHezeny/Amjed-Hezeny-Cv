@@ -1,7 +1,11 @@
 <h1 align="center">Merhaba 👋, Ben Emcet Hazani 👨‍💻</h1>
 <h3 align="center">Web geliştiricisiyim 🖥️ Python ve Java'da yetenekliyim. Web tasarımı, veritabanı yönetimi, HTML, CSS, JavaScript ve PHP konularında deneyimim var. Office uygulamalarında yetenekliyim 📊 ve temel Photoshop bilgisine sahibim 🎨</h3>
 
+
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
 
 - 🔭 Şu anda üzerinde çalışıyorum. [🛍️ E-Ticaret Sitesi Tasarım Projesi 🛍️](https://amjedhezeny.alshekh.com/)
 
