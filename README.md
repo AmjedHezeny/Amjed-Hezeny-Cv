@@ -2,9 +2,8 @@
 <h3 align="center">Web geliştiricisiyim 🖥️ Python ve Java'da yetenekliyim. Web tasarımı, veritabanı yönetimi, HTML, CSS, JavaScript ve PHP konularında deneyimim var. Office uygulamalarında yetenekliyim 📊 ve temel Photoshop bilgisine sahibim 🎨</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emcet-hazani" alt="emcet-hazani" /></a> </p>
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
 
-
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - 🔭 Şu anda üzerinde çalışıyorum. [🛍️ E-Ticaret Sitesi Tasarım Projesi 🛍️](https://amjedhezeny.alshekh.com/)
 
 - 🌱 Şu anda öğreniyorum. **Gelişmiş C# programlama teknikleri ve yazılım tasarım modellerini keşfetme 📚🔍**
