@@ -27,6 +27,8 @@
 
 - ⚡ Eğlenceli gerçek. **https://notes.io/qFFS1**
 
+https://instagram.com/amjed_hezeny
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emcet_hazani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emcet_hazani" height="30" width="40" /></a>
