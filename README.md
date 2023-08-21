@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emcet-hazani&label=Profile%20views&color=0e75b6&style=flat" alt="emcet-hazani" /> </p>
 
+<p align="left"> <a href="https://twitter.com/emcet_hazani" target="blank"><img src="https://img.shields.io/twitter/follow/emcet_hazani?logo=twitter&style=for-the-badge" alt="emcet_hazani" /></a> </p
+                                                                                                                                                                                                        
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-<p align="left"> <a href="https://twitter.com/emcet_hazani" target="blank"><img src="https://img.shields.io/twitter/follow/emcet_hazani?logo=twitter&style=for-the-badge" alt="emcet_hazani" /></a> </p
+
 
 - 🔭 Şu anda üzerinde çalışıyorum. [🛍️ E-Ticaret Sitesi Tasarım Projesi 🛍️](https://amjedhezeny.alshekh.com/)
 
