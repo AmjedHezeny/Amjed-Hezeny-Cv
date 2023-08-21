@@ -29,12 +29,12 @@
 
 https://instagram.com/amjed_hezeny
 https://youtube.com/channel/UCUi7V_JNNo_3Y0bSAi6X0aw
-
+https://www.linkedin.com/in/emcet-hazani-295102194/
 https://linkedin.com/in/emcet-hazani-295102194
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emcet_hazani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emcet_hazani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emcet-hazani-295102194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emcet hazanı" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emcet-hazani-295102194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emcet hazanı" height="30" width="40" /></a>
 <a href="https://fb.com/amjed hezeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amjed hezeny" height="30" width="40" /></a>
 <a href="https://instagram.com/amjed_hezeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amjed_hezeny" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCUi7V_JNNo_3Y0bSAi6X0aw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="كارلو karlo" height="30" width="40" /></a>
