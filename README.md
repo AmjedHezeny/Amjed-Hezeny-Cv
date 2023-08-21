@@ -5,7 +5,7 @@
 
 <p><img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<p align="left"> <a href="https://twitter.com/emcet_hazani" target="blank"><img src="https://img.shields.io/twitter/follow/emcet_hazani?logo=twitter&style=for-the-badge" alt="emcet_hazani" /></a> </p>
+
 
 - 🔭 Şu anda üzerinde çalışıyorum. [🛍️ E-Ticaret Sitesi Tasarım Projesi 🛍️](https://amjedhezeny.alshekh.com/)
 
