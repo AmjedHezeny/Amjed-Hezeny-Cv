@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,Ben Emcet Hazani 👨‍💻</h1>
-<h3 align="center">Web geliştiricisiyim 🖥️ Python ve Java'da yetenekliyim. Web tasarımı, veritabanı yönetimi, HTML, CSS, JavaScript ve PHP konularında deneyimim var. Office uygulamalarında yetenekliyim 📊 ve temel Photoshop bilgisine sahibim 🎨</h3>
+<h3 align="center">👨‍💻 Web Geliştiricisi ve Yazılım Mühendisiyim. C#, SQL, Python ve Java dillerinde yetenekliyim. Aynı zamanda web tasarımı, veritabanı yönetimi, HTML, CSS, JavaScript ve PHP konularında deneyimim var. Office uygulamalarında başarılıyım, ayrıca temel Photoshop bilgisine sahibim. Bu becerilerimle çeşitli projelerde kendimi geliştiriyor ve yaratıcı çözümler üretiyorum. 🖥️🌐📊🎨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emcet-hazani&label=Profile%20views&color=0e75b6&style=flat" alt="emcet-hazani" /> </p>
 
