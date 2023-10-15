@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,Ben Amjed Hezeny 👨‍💻</h1>
-<h3 align="center">👨‍💻 Bilgisayar Mühendisliği ve Yazılım Uzmanı. Özellikle C#, SQL, Python gibi dillere hakimim. Web tasarımında HTML,
+<h3 align="center">👨‍💻 Bilgisayar Mühendisliği ve Yazılım Uzmanı. Yeteneklerim C#, SQL, Python gibi dillere hakimim. Web tasarımında HTML,
 CSS, JavaScript ve PHP teknolojilerini etkili bir şekilde kullanabilirim. Veritabanı
 yönetimi konusunda SQL Server'a özel bir uzmanlığım var ve bu alanda çeşitli
 projelerde çalıştım. ASP.NET MVC tercihimle projeleri başarıyla hayata
